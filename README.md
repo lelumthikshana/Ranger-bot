@@ -104,7 +104,7 @@ _You can develop your own module for Whatsbot.or just fork it and make bot more 
 
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
 - Copyright 2021 by [RangeR bRo (lelum)](https://github.com/lelumthikshana)
-- All modules powered by [lelum thikshana](https://github.com/lelumthikshana)
+- Cricket module powered by [lelum thikshana](https://github.com/lelumthikshana)
 
 ### Fancy chat room (cricket) :
 
